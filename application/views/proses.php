@@ -45,7 +45,7 @@
                             <label class="col-form-label col-md-3 col-sm-3 label-align" for="first-name">Jumlah Cluster Dicari <span class="required">*</span>
                             </label>
                             <div class="col-md-6 col-sm-6 ">
-                              <input type="text" name="jml_cluster" id="jml_cluster" required="" placeholder="Jumlah Cluster Dicari" class="form-control " value="3">
+                              <input type="text" name="jml_cluster" id="jml_cluster" required="" placeholder="Jumlah Cluster Dicari" class="form-control " value="2">
                             </div>
                           </div>
                           <div class="item form-group">
@@ -537,10 +537,6 @@
                               echo "</tr>";
                               echo "<tr>";
                               echo "<td>C2 :  <img src= '".base_url()."Assets/nodemaker/assets/marker/tujuan.png'></td>";
-                              echo "<td></td>";
-                              echo "</tr>";
-                              echo "<tr>";
-                              echo "<td>C3 :  <img src= '".base_url()."Assets/nodemaker/assets/marker/node.png'></td>";
                               echo "<td></td>";
                               echo "</tr>";
                             echo "</table>";
