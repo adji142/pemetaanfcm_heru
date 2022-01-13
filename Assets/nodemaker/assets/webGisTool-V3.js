@@ -48,7 +48,7 @@ function initMap() {
             {
                 // -7.58168745303149, 110.8122333698606
                 zoom: 12,
-                center: {lat: -7.58168745303149, lng: 110.8122333698606},
+                center: {lat: -8.156265281745712, lng: 110.8857988005227},
                 disableDefaultUI: true,
                 styles: mapOptions['styles']
             }
